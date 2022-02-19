@@ -33,9 +33,6 @@
                     <button class="btn btn-warning" id="boton2">
                         <a href="#">Logout</a>
                     </button>
-                    <button class="btn btn-warning" id="boton2">
-                        <a href="#">Testy de prueba</a>
-                    </button>
                 </th>
 
             </tr>
