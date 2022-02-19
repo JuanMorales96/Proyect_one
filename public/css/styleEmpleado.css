@@ -1,0 +1,51 @@
+body{
+    background-image: url(../img/Eating-ice-cream_1920x1080.jpg);
+
+}
+.position-fixed{
+    position: fixed;
+    min-height: 183px;
+    width: 100%;
+    /*text-align: center;*/
+    word-wrap: break-word;
+    background-color: rgba(216, 179, 131, 0.529);
+}
+#boton1{
+    margin-left: 15px;
+}
+#boton2{
+    margin-left: 15px;
+
+}
+a:link, a:visited, a:active{
+    color: white;
+    text-decoration: none;
+}
+#topHeaderEmp{
+    height: 1px;
+}
+#navContainerEmpl{
+    padding: 1rem;
+    height: 109px;
+}
+#containerPrincipal{
+    height: 20%;
+}
+#dataAdmin{
+    background-color: rgba(190, 187, 196, 0.59);
+    height: 10%;
+}
+#LateralIzquierdo{
+    margin-top: 15px;
+    margin-left: 5px;
+    position: absolute;
+    height: 125px;
+    width: 250px;
+    background-color: rgba(255, 241, 132, 0.693);
+}
+#top1{
+
+}
+#top2{
+
+}
