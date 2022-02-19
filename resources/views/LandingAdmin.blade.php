@@ -15,7 +15,7 @@
 
 </div>
 <div id="LateralIzquierdo">
-        lateral izquierdo
+        lateral izquierdo base de modificacion git
     </div>
     <div id="top2">
         top 2
