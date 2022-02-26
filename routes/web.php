@@ -25,3 +25,4 @@ Route::get('/dashboard/clientes','App\Http\Controllers\ClienteController@Landing
 
 Route::get('/dashboard/empleados','App\Http\Controllers\empleadosController@LandingEmpleados')->middleware(['sessionEmpleados']);
 
+Route::get('dashboard/empleados/register','App\Http\Controllers\empleadosController@Register')->middleware(['sessionEmpleados']);

@@ -31,21 +31,10 @@ a:link, a:visited, a:active{
 #containerPrincipal{
     height: 20%;
 }
-#dataAdmin{
-    background-color: rgba(190, 187, 196, 0.59);
-    height: 10%;
-}
 #LateralIzquierdo{
     margin-top: 15px;
-    margin-left: 5px;
     position: absolute;
-    height: 125px;
-    width: 250px;
-    background-color: rgba(255, 241, 132, 0.693);
-}
-#top1{
-
-}
-#top2{
-
+    height: 70%;
+    width: 100%;
+    background-color: rgba(190, 187, 196, 0.713);
 }

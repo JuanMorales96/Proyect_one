@@ -7,19 +7,7 @@
 
 </div>
 
-<div id="dataAdmin">
-
-    <div id="top1">
-        top 1
-    </div>
-
-</div>
-<div id="LateralIzquierdo">
-        lateral izquierdo
-    </div>
-    <div id="top2">
-        top 2
-    </div>
+<div id="LateralIzquierdo"></div>
 @endsection()
 
 @extends('Layouts.footerEmpleados')

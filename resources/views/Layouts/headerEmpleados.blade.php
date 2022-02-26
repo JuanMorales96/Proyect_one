@@ -22,7 +22,7 @@
                 <th>
                     <x-application-logo class="w-20 h-20 fill-current text-gray-500" />
                     <button class="btn btn-secondary" id="boton1">
-                        <a href="#">Registrar</a>
+                        <a href="empleados/register">Registrar</a>
                     </button>
                     <button class="btn btn-secondary" id="boton2">
                         <a href="#">Ver productos</a>

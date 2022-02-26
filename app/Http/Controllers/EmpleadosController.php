@@ -9,4 +9,8 @@ class EmpleadosController extends Controller
     public function LandingEmpleados(){
         return view('LandingAdmin');
     }
+
+    public function Register(){
+        return view('Empleado/Register');
+    }
 }

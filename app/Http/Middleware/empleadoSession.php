@@ -16,6 +16,7 @@ class empleadoSession
      */
     public function handle(Request $request, Closure $next)
     {
+
         $sessionUrl = $request->session()->get(0);
         if($sessionUrl != null)
         {
